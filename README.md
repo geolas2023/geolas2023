@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=E0A458&center=true&vCenter=true&width=720&lines=Cartographier+l'Amérique+française,+fiche+par+fiche;Webmapping+·+MapLibre+·+Python+·+GeoJSON;Géologie+du+Quaternaire+·+modèles+3D;Géomatique+du+risque+et+de+l'environnement" alt="Cartographier l'Amérique française, fiche par fiche">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=E0A458&center=true&vCenter=true&width=720&lines=Cartographier%20l%E2%80%99Am%C3%A9rique%20fran%C3%A7aise%2C%20fiche%20par%20fiche;Webmapping%20%C2%B7%20MapLibre%20%C2%B7%20Python%20%C2%B7%20GeoJSON;G%C3%A9ologie%20du%20Quaternaire%20%C2%B7%20mod%C3%A8les%203D;G%C3%A9omatique%20du%20risque%20et%20de%20l%E2%80%99environnement" alt="Cartographier l’Amérique française, fiche par fiche">
 </p>
 
 <p align="center">
