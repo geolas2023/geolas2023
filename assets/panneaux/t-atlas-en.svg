@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="78" viewBox="0 0 900 78" role="img" aria-label="The French America atlas network"><defs><style>.t{font-family:Georgia,'Times New Roman',serif}.s{font-family:'Segoe UI',Helvetica,Arial,sans-serif}</style></defs>
+<rect width="900" height="78" rx="10" fill="#10161d"/>
+<text x="24" y="40" class="t" font-size="26" fill="#f3ead8">The French America atlas network</text>
+<text x="24" y="64" class="s" font-size="13" fill="#e0a458" letter-spacing=".6">CLICK A CARD TO OPEN THE LIVE ATLAS (IN FRENCH)</text>
+<path d="M24 72 H876" stroke="#e0a458" stroke-opacity=".5"/></svg>

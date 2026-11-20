@@ -16,22 +16,10 @@
   <a href="https://isgs.illinois.edu/"><img src="https://img.shields.io/badge/ISGS-Illinois-13294B?style=flat-square" alt="ISGS"></a>
 </p>
 
----
 
-### 👋 Hello!
+<p align="center"><img src="assets/panneaux/intro-en.svg" width="100%" alt="About me"></p>
 
-I am **Olivier J. Caron**, professor in the Department of Geography at **UQAM** (Université du Québec à Montréal) and research affiliate at the **Illinois State Geological Survey**. Trained as a Quaternary geologist, I design geomatics analysis models and geospatial data dissemination tools, from 3D mapping of Chicago's glacial deposits to permafrost in the Yukon.
-
-Since 2026, I have also been building a **network of historical atlases of French America**: interactive maps where every place is dated, geolocated with its degree of certainty and tied to its sources (books, parish registers, censuses, newspapers).
-
-- 🗺️ **Currently:** working through sources on French speakers in the Mississippi Valley and the American West
-- 🧊 **Research:** Quaternary geology, 3D modelling, hydrogeology, risk geomatics
-- 🎓 **Teaching:** GIS, geographic data structures, visualization, emergency geomatics
-- 🌐 **Languages:** French · English
-
----
-
-## 🧭 The French America atlas network
+<p align="center"><img src="assets/panneaux/t-atlas-en.svg" width="100%" alt="Atlas"></p>
 
 <p align="center">
   <a href="https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/"><img src="assets/cartes/canadiens-francais-ouest-en.svg" width="49%" alt="canadiens-francais-ouest"></a>
@@ -50,9 +38,8 @@ Since 2026, I have also been building a **network of historical atlases of Frenc
   <a href="https://geolas2023.github.io/Atlas-de-l-Am-rique-fran-aise/"><img src="assets/cartes/amerique-francaise-en.svg" width="49%" alt="amerique-francaise"></a>
 </p>
 
-<p align="center"><sub>Click a card to open the live atlas (in French). Source code is in the repository of the same name.</sub></p>
 
-## 🏙️ Geomatics and environment — Montreal
+<p align="center"><img src="assets/panneaux/t-mtl-en.svg" width="100%" alt="Montréal"></p>
 
 <p align="center">
   <a href="https://github.com/geolas2023/Vulnerabilite_MTL"><img src="assets/cartes/vulnerabilite-mtl-en.svg" width="49%" alt="vulnerabilite-mtl"></a>
@@ -62,13 +49,11 @@ Since 2026, I have also been building a **network of historical atlases of Frenc
   <a href="https://github.com/geolas2023/Projet_Geochimie_MTL"><img src="assets/cartes/geochimie-mtl-en.svg" width="49%" alt="geochimie-mtl"></a>
 </p>
 
-## 🛠️ Tools
+<p align="center"><img src="assets/panneaux/t-outils-en.svg" width="100%" alt="Tools"></p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/MapLibre_GL-396CB2?style=for-the-badge&logo=maplibre&logoColor=white" alt="MapLibre GL"> <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"> <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"> <img src="https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=for-the-badge" alt="ArcGIS Pro"> <img src="https://img.shields.io/badge/FME-E25D2C?style=for-the-badge" alt="FME"> <img src="https://img.shields.io/badge/GoCAD-5A6B7B?style=for-the-badge" alt="GoCAD"> <img src="https://img.shields.io/badge/Leapfrog-2E8B57?style=for-the-badge" alt="Leapfrog"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages"> <img src="https://img.shields.io/badge/LiDAR-6B4C9A?style=for-the-badge" alt="LiDAR">
-</p>
+<p align="center"><img src="assets/panneaux/outils-en.svg" width="100%" alt="Tools"></p>
 
-## 📈 Activity
+<p align="center"><img src="assets/panneaux/t-activite-en.svg" width="100%" alt="Activity"></p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=geolas2023&theme=dark&background=10161D&ring=E0A458&fire=E0A458&currStreakLabel=E0A458&border=2A3542&locale=en" width="49%" alt="Contribution streak">
@@ -78,12 +63,7 @@ Since 2026, I have also been building a **network of historical atlases of Frenc
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=geolas2023&bg_color=10161D&color=C5CCD3&line=E0A458&point=F3EAD8&area=true&area_color=E0A458&hide_border=true&custom_title=Contributions%20(last%2030%20days)" width="100%" alt="Activity graph">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geolas2023/geolas2023/output/serpent-sombre.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geolas2023/geolas2023/output/serpent.svg">
-  <img alt="Contributions" src="https://raw.githubusercontent.com/geolas2023/geolas2023/output/serpent.svg">
-</picture>
+<p align="center"><img src="https://raw.githubusercontent.com/geolas2023/geolas2023/output/serpent-sombre.svg" width="100%" alt="Contributions"></p>
 
----
 
-<p align="center"><sub>Department of Geography, Université du Québec à Montréal · Montreal, Quebec</sub></p>
+<p align="center"><img src="assets/panneaux/pied-en.svg" width="100%" alt="UQAM"></p>
