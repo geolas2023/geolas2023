@@ -1,11 +1,11 @@
 <p align="center"><b>🇫🇷 Français</b> · <a href="https://github.com/geolas2023/geolas2023/blob/main/README.en.md">🇬🇧 English</a></p>
 
 <p align="center">
-  <a><img src="assets/banniere.svg" width="100%" alt="Olivier J. Caron — géomatique, géologie du Quaternaire, géohistoire"></a>
+  <picture><img src="assets/banniere.svg" width="100%" alt="Olivier J. Caron — géomatique, géologie du Quaternaire, géohistoire"></picture>
 </p>
 
 <p align="center">
-  <a><img src="assets/panneaux/defilement-fr.svg" width="100%" alt="Cartographier l’Amérique française, fiche par fiche"></a>
+  <picture><img src="assets/panneaux/defilement-fr.svg" width="100%" alt="Cartographier l’Amérique française, fiche par fiche"></picture>
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 </p>
 
 
-<p align="center"><a><img src="assets/panneaux/intro-fr.svg" width="100%" alt="Présentation"></a></p>
+<p align="center"><picture><img src="assets/panneaux/intro-fr.svg" width="100%" alt="Présentation"></picture></p>
 
-<p align="center"><a><img src="assets/panneaux/t-atlas-fr.svg" width="100%" alt="Atlas"></a></p>
+<p align="center"><picture><img src="assets/panneaux/t-atlas-fr.svg" width="100%" alt="Atlas"></picture></p>
 
 <p align="center">
   <a href="https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/"><img src="assets/cartes/canadiens-francais-ouest.svg" width="49%" alt="canadiens-francais-ouest"></a>
@@ -39,7 +39,7 @@
 </p>
 
 
-<p align="center"><a><img src="assets/panneaux/t-mtl-fr.svg" width="100%" alt="Montréal"></a></p>
+<p align="center"><picture><img src="assets/panneaux/t-mtl-fr.svg" width="100%" alt="Montréal"></picture></p>
 
 <p align="center">
   <a href="https://github.com/geolas2023/Vulnerabilite_MTL"><img src="assets/cartes/vulnerabilite-mtl.svg" width="49%" alt="vulnerabilite-mtl"></a>
@@ -49,21 +49,21 @@
   <a href="https://github.com/geolas2023/Projet_Geochimie_MTL"><img src="assets/cartes/geochimie-mtl.svg" width="49%" alt="geochimie-mtl"></a>
 </p>
 
-<p align="center"><a><img src="assets/panneaux/t-outils-fr.svg" width="100%" alt="Outils"></a></p>
+<p align="center"><picture><img src="assets/panneaux/t-outils-fr.svg" width="100%" alt="Outils"></picture></p>
 
-<p align="center"><a><img src="assets/panneaux/outils-fr.svg" width="100%" alt="Outils"></a></p>
+<p align="center"><picture><img src="assets/panneaux/outils-fr.svg" width="100%" alt="Outils"></picture></p>
 
-<p align="center"><a><img src="assets/panneaux/t-activite-fr.svg" width="100%" alt="Activité"></a></p>
+<p align="center"><picture><img src="assets/panneaux/t-activite-fr.svg" width="100%" alt="Activité"></picture></p>
 
 <p align="center">
-  <a><img src="https://streak-stats.demolab.com?user=geolas2023&theme=dark&background=10161D&ring=E0A458&fire=E0A458&currStreakLabel=E0A458&border=2A3542&locale=fr" width="49%" alt="Série de contributions"></a>
+  <picture><img src="https://streak-stats.demolab.com?user=geolas2023&theme=dark&background=10161D&ring=E0A458&fire=E0A458&currStreakLabel=E0A458&border=2A3542&locale=fr" width="49%" alt="Série de contributions"></picture>
 </p>
 
 <p align="center">
-  <a><img src="https://github-readme-activity-graph.vercel.app/graph?username=geolas2023&bg_color=10161D&color=C5CCD3&line=E0A458&point=F3EAD8&area=true&area_color=E0A458&hide_border=true&custom_title=Contributions%20(30%20derniers%20jours)" width="100%" alt="Graphique d'activité"></a>
+  <picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=geolas2023&bg_color=10161D&color=C5CCD3&line=E0A458&point=F3EAD8&area=true&area_color=E0A458&hide_border=true&custom_title=Contributions%20(30%20derniers%20jours)" width="100%" alt="Graphique d'activité"></picture>
 </p>
 
-<p align="center"><a><img src="https://raw.githubusercontent.com/geolas2023/geolas2023/output/serpent-sombre.svg" width="100%" alt="Contributions"></a></p>
+<p align="center"><picture><img src="https://raw.githubusercontent.com/geolas2023/geolas2023/output/serpent-sombre.svg" width="100%" alt="Contributions"></picture></p>
 
 
-<p align="center"><a><img src="assets/panneaux/pied-fr.svg" width="100%" alt="UQAM"></a></p>
+<p align="center"><picture><img src="assets/panneaux/pied-fr.svg" width="100%" alt="UQAM"></picture></p>
