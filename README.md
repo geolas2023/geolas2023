@@ -1,3 +1,5 @@
+<p align="center"><b>🇫🇷 Français</b> · <a href="https://github.com/geolas2023/geolas2023/blob/main/README.en.md">🇬🇧 English</a></p>
+
 <p align="center">
   <img src="assets/banniere.svg" width="100%" alt="Olivier J. Caron — géomatique, géologie du Quaternaire, géohistoire">
 </p>
