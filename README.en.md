@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=E0A458&center=true&vCenter=true&width=720&lines=Mapping%20French%20America%2C%20one%20record%20at%20a%20time;Web%20mapping%20%C2%B7%20MapLibre%20%C2%B7%20Python%20%C2%B7%20GeoJSON;Quaternary%20geology%20%C2%B7%203D%20models;Risk%20and%20environmental%20geomatics" alt="Mapping French America, one record at a time">
+  <img src="assets/panneaux/defilement-en.svg" width="100%" alt="Mapping French America, one record at a time">
 </p>
 
 <p align="center">
