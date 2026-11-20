@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/"><img src="https://img.shields.io/badge/Atlas-of_French_America-E0A458?style=flat-square&logo=mapbox&logoColor=white" alt="Atlas"></a>
+  <a href="mailto:caron.olivier@uqam.ca"><img src="https://img.shields.io/badge/Email-caron.olivier%40uqam.ca-D14836?style=flat-square&logo=maildotru&logoColor=white" alt="caron.olivier@uqam.ca"></a>
   <a href="https://storymaps.arcgis.com/stories/a08b025b4317402fb7db20d89150b25e"><img src="https://img.shields.io/badge/CV-StoryMap-2C7AC3?style=flat-square&logo=arcgis&logoColor=white" alt="StoryMap"></a>
   <a href="https://geographie.uqam.ca/"><img src="https://img.shields.io/badge/UQAM-Geography-0079BE?style=flat-square" alt="UQAM"></a>
   <a href="https://isgs.illinois.edu/"><img src="https://img.shields.io/badge/ISGS-Illinois-13294B?style=flat-square" alt="ISGS"></a>
