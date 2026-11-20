@@ -1,11 +1,11 @@
 <p align="center"><a href="https://github.com/geolas2023">🇫🇷 Français</a> · <b>🇬🇧 English</b></p>
 
 <p align="center">
-  <img src="assets/banniere-en.svg" width="100%" alt="Olivier J. Caron — geomatics, Quaternary geology, historical GIS">
+  <a><img src="assets/banniere-en.svg" width="100%" alt="Olivier J. Caron — geomatics, Quaternary geology, historical GIS"></a>
 </p>
 
 <p align="center">
-  <img src="assets/panneaux/defilement-en.svg" width="100%" alt="Mapping French America, one record at a time">
+  <a><img src="assets/panneaux/defilement-en.svg" width="100%" alt="Mapping French America, one record at a time"></a>
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 </p>
 
 
-<p align="center"><img src="assets/panneaux/intro-en.svg" width="100%" alt="About me"></p>
+<p align="center"><a><img src="assets/panneaux/intro-en.svg" width="100%" alt="About me"></a></p>
 
-<p align="center"><img src="assets/panneaux/t-atlas-en.svg" width="100%" alt="Atlas"></p>
+<p align="center"><a><img src="assets/panneaux/t-atlas-en.svg" width="100%" alt="Atlas"></a></p>
 
 <p align="center">
   <a href="https://geolas2023.github.io/Atlas-Les-Canadiens-Fran-ais-de-l-Ouest/"><img src="assets/cartes/canadiens-francais-ouest-en.svg" width="49%" alt="canadiens-francais-ouest"></a>
@@ -39,7 +39,7 @@
 </p>
 
 
-<p align="center"><img src="assets/panneaux/t-mtl-en.svg" width="100%" alt="Montréal"></p>
+<p align="center"><a><img src="assets/panneaux/t-mtl-en.svg" width="100%" alt="Montréal"></a></p>
 
 <p align="center">
   <a href="https://github.com/geolas2023/Vulnerabilite_MTL"><img src="assets/cartes/vulnerabilite-mtl-en.svg" width="49%" alt="vulnerabilite-mtl"></a>
@@ -49,21 +49,21 @@
   <a href="https://github.com/geolas2023/Projet_Geochimie_MTL"><img src="assets/cartes/geochimie-mtl-en.svg" width="49%" alt="geochimie-mtl"></a>
 </p>
 
-<p align="center"><img src="assets/panneaux/t-outils-en.svg" width="100%" alt="Tools"></p>
+<p align="center"><a><img src="assets/panneaux/t-outils-en.svg" width="100%" alt="Tools"></a></p>
 
-<p align="center"><img src="assets/panneaux/outils-en.svg" width="100%" alt="Tools"></p>
+<p align="center"><a><img src="assets/panneaux/outils-en.svg" width="100%" alt="Tools"></a></p>
 
-<p align="center"><img src="assets/panneaux/t-activite-en.svg" width="100%" alt="Activity"></p>
+<p align="center"><a><img src="assets/panneaux/t-activite-en.svg" width="100%" alt="Activity"></a></p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=geolas2023&theme=dark&background=10161D&ring=E0A458&fire=E0A458&currStreakLabel=E0A458&border=2A3542&locale=en" width="49%" alt="Contribution streak">
+  <a><img src="https://streak-stats.demolab.com?user=geolas2023&theme=dark&background=10161D&ring=E0A458&fire=E0A458&currStreakLabel=E0A458&border=2A3542&locale=en" width="49%" alt="Contribution streak"></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geolas2023&bg_color=10161D&color=C5CCD3&line=E0A458&point=F3EAD8&area=true&area_color=E0A458&hide_border=true&custom_title=Contributions%20(last%2030%20days)" width="100%" alt="Activity graph">
+  <a><img src="https://github-readme-activity-graph.vercel.app/graph?username=geolas2023&bg_color=10161D&color=C5CCD3&line=E0A458&point=F3EAD8&area=true&area_color=E0A458&hide_border=true&custom_title=Contributions%20(last%2030%20days)" width="100%" alt="Activity graph"></a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/geolas2023/geolas2023/output/serpent-sombre.svg" width="100%" alt="Contributions"></p>
+<p align="center"><a><img src="https://raw.githubusercontent.com/geolas2023/geolas2023/output/serpent-sombre.svg" width="100%" alt="Contributions"></a></p>
 
 
-<p align="center"><img src="assets/panneaux/pied-en.svg" width="100%" alt="UQAM"></p>
+<p align="center"><a><img src="assets/panneaux/pied-en.svg" width="100%" alt="UQAM"></a></p>
