@@ -37,6 +37,9 @@
   <a href="https://geolas2023.github.io/Atlas-Billy-the-Kid/"><img src="assets/cartes/billy-the-kid.svg" width="49%" alt="billy-the-kid"></a>
   <a href="https://geolas2023.github.io/Atlas-de-l-Am-rique-fran-aise/"><img src="assets/cartes/amerique-francaise.svg" width="49%" alt="amerique-francaise"></a>
 </p>
+<p align="center">
+  <a href="https://geolas2023.github.io/Atlas-Aubry/"><img src="assets/cartes/aubry.svg" width="49%" alt="aubry"></a>
+</p>
 
 
 <p align="center"><picture><img src="assets/panneaux/t-mtl-fr.svg" width="100%" alt="Montréal"></picture></p>
